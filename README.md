@@ -1,25 +1,24 @@
-### Hello there 👋
+# Hello there 👋
 Bonjour, je suis Paco RAHON-CLOS, Apprenti data scientist à l'IA School et en alternance chez Sodexo Space Design en tant que data analyst
 ## Mon Travail
-Actuellement en tant que data analyst je fais :
--De l'analyse de données
--Des tableaux de bord dynamiques via PowerBI
--De la gestion de table via excel et smartsheet
--Du nettoyage et tri de données via PostgreSQL
+Actuellement en tant que data analyst je fais : <br/>
+-De l'analyse de données<br/>
+-Des tableaux de bord dynamiques via PowerBI<br/>
+-De la gestion de table via excel et smartsheet<br/>
+-Du nettoyage et tri de données via PostgreSQL<br/>
 ## Études
-L'IA school me forme sur les points suivants
--Modèles statistiques et mathématiques
--R/Rshiny
--SQL
--Python
-##
-Mes autres compétences : 
--C
--java
--HTML/CSS
--PHP
--Javascript
--Développement mobile java
+L'IA school me forme sur les points suivants<br/>
+-Modèles statistiques et mathématiques<br/>
+-R/Rshiny<br/>
+-SQL<br/>
+-Python<br/>
+## Mes autres compétences : 
+-C<br/>
+-java<br/>
+-HTML/CSS<br/>
+-PHP<br/>
+-Javascript<br/>
+-Développement mobile java<br/>
 ## N'hésite pas à jeter un oeil a mes projets si ça t'intéresse
 
 <!--
