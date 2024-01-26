@@ -12,6 +12,14 @@ L'IA school me forme sur les points suivants
 -R/Rshiny
 -SQL
 -Python
+##
+Mes autres compétences : 
+-C
+-java
+-HTML/CSS
+-PHP
+-Javascript
+-Développement mobile java
 ## N'hésite pas à jeter un oeil a mes projets si ça t'intéresse
 
 <!--
