@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello there 👋
+Bonjour, je suis Paco RAHON-CLOS, Apprenti data scientist à l'IA School et en alternance chez Sodexo Space Design en tant que data analyst
+## Mon Travail
+Actuellement en tant que data analyst je fais :
+-De l'analyse de données
+-Des tableaux de bord dynamiques via PowerBI
+-De la gestion de table via excel et smartsheet
+-Du nettoyage et tri de données via PostgreSQL
+## Études
+L'IA school me forme sur les points suivants
+-Modèles statistiques et mathématiques
+-R/Rshiny
+-SQL
+-Python
+## N'hésite pas à jeter un oeil a mes projets si ça t'intéresse
 
 <!--
 **Pacorahon/Pacorahon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
