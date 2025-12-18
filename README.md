@@ -1,5 +1,5 @@
 # Hello there 👋
-Bonjour, je suis Paco RAHON-CLOS, Apprenti data scientist à l'IA School et en alternance chez Sodexo Space Design en tant que data analyst
+Bonjour, je suis Paco RAHON-CLOS, data scientist chez Sodexo Space Design 
 ## Mon Travail
 Actuellement en tant que data analyst je fais : <br/>
 -De l'analyse de données<br/>
